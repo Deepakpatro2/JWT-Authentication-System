@@ -65,8 +65,8 @@ Auth System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Deepakpatro2/JWT-Authentication-System.git
+cd JWT-Authentication-System
 ```
 
 ### 2. Create virtual environment
